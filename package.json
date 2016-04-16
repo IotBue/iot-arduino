@@ -1,0 +1,19 @@
+{
+  "name": "iot-example",
+  "version": "0.0.1",
+  "description": "IoT example using Johnny Five and BMP180",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http:github.com/IotBue/iot-arduino"
+  },
+  "author": "Cranio",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.9.39",
+    "request": "^2.71.0"
+  }
+}
